@@ -1,0 +1,52 @@
+body{
+    font-family: Arial, Tahoma;
+    font-size: 12px;
+
+}
+
+#main{
+    width: 1000px;
+    padding: 0;
+    margin-left: auto;
+    margin-right: auto;
+    <p> font-size: 25 </p>
+}
+#head{
+    height: 300px;
+    background-color: #F5F5F5;
+    border: 1px solid #CDCDCD;
+    margin-bottom:5px;
+
+}
+#head-link{
+    height: 300px;
+    line-height: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 1px solid mistyrose;
+    background-color: rosybrown;
+    margin-bottom:5px;
+    clear: both;
+}
+#left{
+    width: 350px;
+    min-height: 300px;
+    border: 1px solid blueviolet;
+    float:left;
+    background-color: wheat;
+    margin-bottom: 5px;
+}
+#content{
+    width: 620px;
+    min-height: 300px;
+    border: 1px solid navajowhite;
+    float:left;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+#footer{
+    height: 50px;
+    clear: both;
+    border: 1px solid navajowhite;
+    background-color: #F8F8FF;
+}
